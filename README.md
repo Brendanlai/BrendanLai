@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey there, I'm Brendan :) 👋
+
+I'm a third year student at UBC studying integrated engineering with a focus on computer engineering and applied maths.
+
+Currently I am working on my capstone project, Overlap which you can find [here](https://github.com/IGEN330-Overlap/Overlap). 
+
+I love hockey and soccer and always enjoy friendly debates about why the Leafs will be winning the Stanley Cup. To learn more about me you can also find me on [Linkedin](https://www.linkedin.com/in/brendan-lai-176460182).
 
 <!--
 **Brendanlai/BrendanLai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
