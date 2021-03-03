@@ -1,4 +1,4 @@
-### Hey there, I'm Brendan :) 👋
+### Hey there, I'm Brendan 👋
 
 📚 I'm a third year student at UBC studying integrated engineering with a focus on computer engineering and applied maths.
 
