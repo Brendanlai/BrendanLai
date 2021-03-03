@@ -4,7 +4,8 @@
 
 Currently I am working on my capstone project, Overlap which you can find [here](https://github.com/IGEN330-Overlap/Overlap). 
 
-⚡ Fun fact: I love hockey and soccer and always enjoy friendly debates about why the Leafs will be winning the Stanley Cup. 
+⚡ Fun fact: I love hockey and soccer and always enjoy friendly debates about why the Manchester United and the Leafs.
+
 To learn more about me you can also find me on [Linkedin](https://www.linkedin.com/in/brendan-lai-176460182).
 
 <!--
