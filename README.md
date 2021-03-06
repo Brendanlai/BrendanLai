@@ -1,6 +1,6 @@
 ### Hey there, I'm Brendan 👋
 
-📚 I'm a third year student at UBC studying integrated engineering with a focus on computer engineering and applied maths.
+📚 I'm in my third year student at UBC studying integrated engineering with a focus on computer engineering and applied maths.
 
 Currently I am working on my capstone project, Overlap which you can find [here](https://github.com/IGEN330-Overlap/Overlap). 
 
