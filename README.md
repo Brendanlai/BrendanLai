@@ -4,7 +4,7 @@
 
 Currently I am working on my capstone project, Overlap which you can find [here](https://github.com/IGEN330-Overlap/Overlap). 
 
-⚡ Fun fact: I love hockey and soccer and am particularly intersted in advanced sports analytics.
+⚡ Fun fact: I love hockey and soccer and particularly, fantasy leagues using advanced stats to build a winning team.
 
 To learn more about me you can also find me on [Linkedin](https://www.linkedin.com/in/brendan-lai-176460182).
 
