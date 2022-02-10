@@ -2,7 +2,8 @@
 
 📚 I'm in my third year at UBC studying integrated engineering with a focus on computer engineering and applied maths.
 
-Currently I am working on my capstone project, Overlap which you can find [here](https://github.com/IGEN330-Overlap/Overlap). 
+Currently I am working at CIBC as a BSA building a background in data analytics and visualization.
+My last capstone project was Overlap which you can find [here](https://github.com/IGEN330-Overlap/Overlap). 
 
 ⚡ Fun fact: I love hockey and soccer and particularly, fantasy leagues using advanced stats to build a winning team.
 
