@@ -2,7 +2,7 @@
 
 📚 I'm in my final year at UBC studying integrated engineering with a focus on computer engineering and applied maths.
 
-My current capstone project is foosbot an autonomous foosball opponent which you can find the code for [here]([https://github.com/foosbot-igen430/foosbot-computer/]).
+My current capstone project is foosbot an autonomous foosball opponent which you can find the code for [here](https://github.com/foosbot-igen430/foosbot-computer/).
 
 ⚡ Fun fact: I love hockey and soccer and particularly, fantasy leagues using advanced stats to build a winning team.
 
