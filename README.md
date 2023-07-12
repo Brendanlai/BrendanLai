@@ -1,8 +1,9 @@
 ### Hey there, I'm Brendan 👋
 
-📚 I'm in my final year at UBC studying integrated engineering with a focus on computer engineering and applied maths.
+📚 I'm recently graduated from UBC integrated engineering with a focus on computer engineering and applied maths.
 
-My current capstone project is foosbot an autonomous foosball opponent which you can find the code for [here](https://github.com/foosbot-igen430/foosbot-computer/).
+Currently I'm working part-time at BC Children's Hospital developing dashboards and supporting the Pediatric Anesthesiology Resarch Team (PART) in their research initiatives.
+My final capstone project was foosbot an autonomous foosball opponent which you can find more info on [here](https://drive.google.com/drive/folders/1FNWNzub9BFkjC3ssFo5zJb3rbLoISCuC).
 
 ⚡ Fun fact: I love hockey and soccer and particularly, fantasy leagues using advanced stats to build a winning team.
 
